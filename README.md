@@ -11,3 +11,7 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
+
+### Docs
+
+[Swagger](http://127.0.0.1:8000/api/swagger/)
