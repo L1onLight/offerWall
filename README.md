@@ -1,5 +1,13 @@
 ## Server startup
 
+### Python 3.12 is required
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 ### After db initialization (only once)
 
 ```bash
